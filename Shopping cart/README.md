@@ -1,8 +1,3 @@
-# About
-
--   This is an E-commerce shopping website
--   Build using `create-react-app`
--   Live Demo: https://khunhour.github.io/shopping-cart/
 
 # Build With
 
